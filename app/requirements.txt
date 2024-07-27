@@ -1,9 +1,0 @@
-pandas 
-numpy 
-matplotlib
-seaborn
-tensoflow
-requests
-bs4
-tqdm
-keras
